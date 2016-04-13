@@ -59,6 +59,9 @@ You can now `git add . && git commit -a -m "your message" && git push` to deploy
 + http://bussing-dharaharsh.blogspot.com/2013/08/creating-sailsjs-application-on-aws-ami.html
 + http://cloud.dzone.com/articles/how-deploy-nodejs-apps-aws-mac
 
+#### Deploying to Bluemix ?
++ https://www.ibm.com/developerworks/library/wa-build-deploy-web-app-sailsjs-1-bluemix/index.html
+
 ##### Using PM2?
 
 + http://devo.ps/blog/goodbye-node-forever-hello-pm2/
